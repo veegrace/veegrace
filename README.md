@@ -1,16 +1,18 @@
-## Hi there 👋
+## Mabuhey 👋
 
-<!--
-**veegrace/veegrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am an alien from Planet VM. Temporarily residing in this planet called Earth until my spaceship is fixed 🛸
 
-Here are some ideas to get you started:
+<h3 align="left">👩‍💻 Learned/Trained Technologies</h3>
+<p>
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/vg-cabalhug-311134185/) 
+- [Academia](https://uclmaa.academia.edu/VCabalhug)
+
+### 📂 Ongoing Projects:
+- Bloodhound
+- BHCMS
+
